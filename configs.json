@@ -1,0 +1,23 @@
+{
+  "application":{
+    "port":"8888",
+    "enviroment":"local"
+  },
+  "general":{
+    "base_url" :"/",
+    "https" : false
+  },
+  "redis":{
+    "host":"10.130.67.223",
+    "port":6379,
+    "database":0,
+    "password":""
+  },
+  "mongodb":{
+    "host":"127.0.0.1",
+    "port":"27017",
+    "auth":"",
+    "username":"",
+    "password":""
+  }
+}
