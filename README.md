@@ -1,6 +1,6 @@
 ## Learn GO
 
-Example request auth register, login, logout, sử dung mongodb, wire, viper, session
+Example request auth register, login, logout, sử dung gin, mongodb, wire, viper, session
 
 - **[mongodb] lưu thông tin user
 - **[wire] xử lý dependency injection
